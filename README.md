@@ -1,2 +1,2 @@
 # estudando-git-dio
-testandoo
+Desafio de projeto sobre git/github
